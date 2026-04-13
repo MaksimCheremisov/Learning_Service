@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Learning_Service.Domain/Learning_Service.Domain.csproj" />
+  <Project Path="Learning_Service.ValueObjects/Learning_Service.ValueObjects.csproj" />
+  <Project Path="Learning_Service/Learning_Service.csproj" />
+</Solution>
