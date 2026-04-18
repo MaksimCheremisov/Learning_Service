@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace Learning_Service.ValueObjects.Base;
 
-namespace Learning_Service.ValueObjects.Base
+public interface IValidator<T>
 {
-    internal class IValidator
-    {
-    }
+    void Validate(T value);
 }

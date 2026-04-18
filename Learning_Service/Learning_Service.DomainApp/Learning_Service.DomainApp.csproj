@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Learning_Service.Domain\Learning_Service.Domain.csproj" />
     <ProjectReference Include="..\Learning_Service.ValueObjects\Learning_Service.ValueObjects.csproj" />
   </ItemGroup>
 
