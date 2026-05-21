@@ -1,6 +1,0 @@
-﻿namespace Learning_Service.ValueObjects.Base;
-
-public interface IValidator<T>
-{
-    void Validate(T value);
-}

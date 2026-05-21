@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="DomainApp/DomainApp.csproj" Id="fea5d7a4-7ea7-4a98-aaf4-b0242f0ee296">
-    <BuildDependency Project="Learning_Service.ValueObjects/Learning_Service.ValueObjects.csproj" />
-  </Project>
-  <Project Path="Learning_Service.Domain/Learning_Service.Domain.csproj" />
-  <Project Path="Learning_Service.ValueObjects/Learning_Service.ValueObjects.csproj" />
-</Solution>
